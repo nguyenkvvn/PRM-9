@@ -9,9 +9,6 @@ by nguyenkvvn
 - lower receiver geometry for 9mm and magazine release referenced from RKSpookware's and IvanTheTroll's [UBAR-9](https://odysee.com/@RKSpookware:2/UBAR9:0)
 - reinforced front takedown concept inspired by Hoffman Tactical, though no actual geometry was referenced
 
-## Description
-Here's the long form description, listing features and whatnot of the product here.
-
 ## Materials Required
 Please refer to Assembly Guide PDF.
 
