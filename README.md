@@ -1,8 +1,9 @@
 # PRM-9
 A printable receiver for the MONTGO-9 by Matador Arms
 
-## Pedigree
 by nguyenkvvn
+
+## Pedigree
 
 - upper receiver solid model referenced from [KM3D](https://odysee.com/@KM3D:e/Matador-Montgo-Upper-for-Modeling:c)
 - lower receiver model based from Jacob and IvanTheTroll [The Gatalog](https://odysee.com/@TheGatalog-ReferenceModels:b/AR-15CADandBlueprintsV11-DeterrenceDispensed:5)
@@ -17,8 +18,12 @@ Assembles like an AR-15 lower receiver, however, you must follow the Assembly Gu
 
 ## Change Log
 
+- v0.2: Private Beta Candidate 2 - Release Candidate v1.0
+    * Added assembly PDF
+    * Revised model to make it easier to install ejector hardware
+
 - v0.1: Private Beta Candidate 1
     * Initial commit
 
 ## License
-No license selected as of 10/15/2022. No warranty expressed or implied.
+No license selected as of 10/15/2022. No warranty expressed or implied. No license given to manufacture or commercialize.
